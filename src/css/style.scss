@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+@import './hero';
+@import './navbar';
+@import './sidebar';
+@import './register';
+@import './home';
+@import './toggle';
+@import './talents';
+@import './room';
+
+body
+{
+    background-color: #f4f4f4;
+    font-family: 'Almarai', sans-serif;
+}

@@ -1,0 +1,9 @@
+@media (min-width: 1024px) { 
+    .navbar
+    {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: calc(100% - 500px);
+    }
+ }
